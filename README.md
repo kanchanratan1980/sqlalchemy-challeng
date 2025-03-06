@@ -27,7 +27,7 @@ Endpoint
 
 Description
 
-/
+
 
 Lists all available routes
 
